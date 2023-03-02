@@ -1,0 +1,5 @@
+<record model="gnuhealth.pathology" id="A00">
+	<field name="name">Cholera</field>
+	<field name="code">A00</field>
+	<field name="category" ref="icdcat1-1"></field>
+</record>
